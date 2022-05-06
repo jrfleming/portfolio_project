@@ -106,7 +106,7 @@ int main(){
 	if (command == "exit") {
 			continue;
 		}
-	}
+	
 
 	// check if user input = 4
 	else if (command.length() == 4) {
