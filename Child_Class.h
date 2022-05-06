@@ -5,6 +5,7 @@
 #pragma once
 #include <tuple>
 #include <vector>
+#include "Parent_Class.h"
 
 enum class Colour {None, White, Black};
 enum class PieceType {None, Pawn, Queen, King};
