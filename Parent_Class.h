@@ -1,7 +1,7 @@
 // Joseph Fleming
 // CSCE 306; Spring 2022
 // portfolio project part 5
-
+// modified code from: https://github.com/BaranCanOener/ConsoleChess
 
 #pragma once
 #include <tuple>
