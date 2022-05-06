@@ -11,8 +11,8 @@
 #include <sstream>
 #include <string>
 #include <windows.h>
-#include "Parent_Class.h"
-#include "Child_Class.h"
+#include "Piece.h"
+#include "Piece_Type.h"
 #include "board.h"
 #include <ctime>
 
