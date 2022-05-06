@@ -84,7 +84,7 @@ int main(){
 	cout << " to reset the board type reset" << endl;
 
 	// create chessboard object
-	ChessBoard board;'
+	ChessBoard board;
 
 	//create movedata object
 	MoveData move;
