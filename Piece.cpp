@@ -1,3 +1,7 @@
+// Joseph Fleming
+// CSCE 306; Spring 2022
+// code modified from: https://github.com/BaranCanOener/ConsoleChess
+
 #include "Pieces.h"
 #include "algorithm"
 
